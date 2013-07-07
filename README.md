@@ -12,13 +12,13 @@ Hardware
 
 The Parts
 
-1) Arduino Ethernet[https://www.sparkfun.com/products/11229]
+1) [Arduino Ethernet](https://www.sparkfun.com/products/11229)
 
-2) PowerSwitch Tail II[https://www.sparkfun.com/products/10747] 
+2) [PowerSwitch Tail II](https://www.sparkfun.com/products/10747)
 
-3) M/M Jumper Wires[https://www.sparkfun.com/products/8431]
+3) [M/M Jumper Wires](https://www.sparkfun.com/products/8431)
 
-4) 5V FTDI Cable[https://www.sparkfun.com/products/9718] (To upload the sketch and power the board.)
+4) [5V FTDI Cable](https://www.sparkfun.com/products/9718) (To upload the sketch and power the board.)
 
 5) A lamp 
 
