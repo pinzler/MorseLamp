@@ -28,7 +28,7 @@ Step 1 - Plug a yellow cable into digital pin 7 and a black cable into GND – t
 
 Step 2 - Plug the other end of the yellow cable into +in (pin 1) on the PowerSwitch and the other end of the black cable into -in (pin 2) on the PowerSwitch.
 
-Step 3 - Step 8: Plug the lamp into the PowerSwitch and plug the PowerSwitch into an outlet.
+Step 3 - Plug the lamp into the PowerSwitch and plug the PowerSwitch into an outlet.
 
 Software
 --------
