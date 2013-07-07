@@ -24,9 +24,9 @@ The Parts
 
 6) A very small flat-head screw driver
 
-Step 1 - Plug a yellow cable into digital pin 7 and a black cable into GND – these are to connect your Arduino to the PowerSwitch. Then use your flat-head screwdriver to secure the cables in your PowerSwitch.
+Step 1 - Plug a yellow cable into digital pin 7 and a black cable into GND – these are to connect your Arduino to the PowerSwitch. 
 
-Step 2 - Plug the other end of the yellow cable into +in (pin 1) on the PowerSwitch and the other end of the black cable into -in (pin 2) on the PowerSwitch.
+Step 2 - Plug the other end of the yellow cable into +in (pin 1) on the PowerSwitch and the other end of the black cable into -in (pin 2) on the PowerSwitch. (Then use the flat-head screwdriver to secure the cables in your PowerSwitch.)
 
 Step 3 - Plug the lamp into the PowerSwitch and plug the PowerSwitch into an outlet.
 
