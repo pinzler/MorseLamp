@@ -2,7 +2,7 @@
 #include <Ethernet.h>
 
 byte mac[] = {  0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };  // Fill in from the back of your Arduino
-char serverName[] = "0.0.00"; //IP address for your node.js server.
+char serverName[] = "0.0.0.0"; //IP address for your node.js server.
 
 int serverPort = 1337; //port for the node.js server
 const int powerPin = 7; //pin connected to powerswitch
