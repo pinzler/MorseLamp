@@ -3,7 +3,7 @@ MorseLamp
 
 Communicate in Morse Code using Arduino, Twilio, node.js and a lamp.  SMS a phrase to a Twilio number and the lamp will "translate" it into morse code.  (Also, you will receive a SMS with the morse code, so you can follow along.)
 
-The node.js server handles the SMS messages, the converstion to morse code, and then sends the code to the Arduino Ethernet that controls the lamp.
+The node.js server handles the SMS messages, the translation to morse code, and then sends the code to the Arduino Ethernet that controls the lamp.
 
 Demo video: http://www.youtube.com/watch?v=VhwSx_bzHZU
 
